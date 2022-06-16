@@ -1,60 +1,58 @@
 [
-    {
-      "id": 1,
-      "title": "Crystal Black",
-      "type": "Pearl",
-      "img": "./carbasic/icons/icon-black.jpg",
-      "srcImg": "./carbasic/products/black-car.jpg",
-      "color": "Black",
-      "price": "19,550",
-      "engineType": "In-Line 4-Cylinder",
-      "displacement": "1996 cc",
-      "horsepower": "158 @ 6500 rpm",
-      "torque": "138 lb-ft @ 4200 rpm",
-      "redline": "6700 rpm"
-    },
-    {
-      "id": 2,
-      "title": "Modern Steel",
-      "type": "Metallic",
-      "img": "./carbasic/icons/icon-steel.jpg",
-      "srcImg": "./carbasic/products/steel-car.jpg",
-      "color": "Steel",
-      "price": "20,550",
-      "engineType": "In-Line 4-Cylinder",
-      "displacement": "1996 cc",
-      "horsepower": "158 @ 6500 rpm",
-      "torque": "138 lb-ft @ 4200 rpm",
-      "redline": "6700 rpm"
-     
-    },
-    {
-      "id": 3,
-      "title": "Lunar Silver",
-      "type": "Metallic",
-      "img": "./carbasic/icons/icon-silver.jpg",
-      "srcImg": "./carbasic/products/silver-car.jpg",
-      "color": "Silver",
-      "price": "21,550",
-      "engineType": "In-Line 4-Cylinder",
-      "displacement": "1996 cc",
-      "horsepower": "158 @ 6500 rpm",
-      "torque": "138 lb-ft @ 4200 rpm",
-      "redline": "6700 rpm"
-    },
-    {
-      "id": 4,
-      "title": "Rallye Red",
-      "type": "Metallic",
-      "img": "./carbasic/icons/icon-red.jpg",
-      "srcImg": "./carbasic/products/red-car.jpg",
-      "color": "Red",
-      "price": "22,550",
-      "engineType": "In-Line 4-Cylinder",
-      "displacement": "1996 cc",
-      "horsepower": "158 @ 6500 rpm",
-      "torque": "138 lb-ft @ 4200 rpm",
-      "redline": "6700 rpm"
-   
-    }
-  ]
+  {
+    "id": 1,
+    "title": "Crystal Black",
+    "type": "Pearl",
+    "img": "./carbasic/icons/icon-black.jpg",
+    "srcImg": "./carbasic/products/black-car.jpg",
+    "color": "Black",
+    "price": "19,550",
+    "engineType": "In-Line 4-Cylinder",
+    "displacement": "1996 cc",
+    "horsepower": "158 @ 6500 rpm",
+    "torque": "138 lb-ft @ 4200 rpm",
+    "redline": "6700 rpm"
+  },
+  {
+    "id": 2,
+    "title": "Modern Steel",
+    "type": "Metallic",
+    "img": "./carbasic/icons/icon-steel.jpg",
+    "srcImg": "./carbasic/products/steel-car.jpg",
+    "color": "Steel",
+    "price": "20,550",
+    "engineType": "In-Line 4-Cylinder",
+    "displacement": "1996 cc",
+    "horsepower": "158 @ 6500 rpm",
+    "torque": "138 lb-ft @ 4200 rpm",
+    "redline": "6700 rpm"
+  },
+  {
+    "id": 3,
+    "title": "Lunar Silver",
+    "type": "Metallic",
+    "img": "./carbasic/icons/icon-silver.jpg",
+    "srcImg": "./carbasic/products/silver-car.jpg",
+    "color": "Silver",
+    "price": "21,550",
+    "engineType": "In-Line 4-Cylinder",
+    "displacement": "1996 cc",
+    "horsepower": "158 @ 6500 rpm",
+    "torque": "138 lb-ft @ 4200 rpm",
+    "redline": "6700 rpm"
+  },
+  {
+    "id": 4,
+    "title": "Rallye Red",
+    "type": "Metallic",
+    "img": "./carbasic/icons/icon-red.jpg",
+    "srcImg": "./carbasic/products/red-car.jpg",
+    "color": "Red",
+    "price": "22,550",
+    "engineType": "In-Line 4-Cylinder",
+    "displacement": "1996 cc",
+    "horsepower": "158 @ 6500 rpm",
+    "torque": "138 lb-ft @ 4200 rpm",
+    "redline": "6700 rpm"
+  }
+]
