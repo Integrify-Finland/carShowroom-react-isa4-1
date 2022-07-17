@@ -24,7 +24,8 @@ export default function CarShowroom() {
   const renderIcon = (arrayFeatures) => {
     return arrayFeatures.map((item, index) => {
       return (
-        <div
+        <div   
+        key={index}
           className="row border border-link pt-2 pb-2 mt-2"
           style={{ cursor: "pointer" }}
         >
